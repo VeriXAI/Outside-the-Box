@@ -1,0 +1,12 @@
+dd
+numpy
+keras
+keras-applications
+keras-preprocessing
+matplotlib
+scikit-image
+tensorflow
+tensorflow-federated
+sudo apt-get install tcl-dev tk-dev python-tk python3-tk
+scipy
+sklearn
