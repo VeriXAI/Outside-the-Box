@@ -1,14 +1,20 @@
 # Outside the Box
 
-This repository contains the implementation and data used in the paper [Outside the Box: Abstraction-Based Monitoring of Neural Networks](http://ecai2020.eu/papers/1282_paper.pdf), published at [ECAI 2020](http://ecai2020.eu/). To cite the paper, follow [this link](https://dblp.org/rec/conf/ecai/HenzingerL020.html?view=bibtex) or directly use:
+This repository contains the implementation and data used in the paper [Outside the Box: Abstraction-Based Monitoring of Neural Networks](http://ecai2020.eu/papers/1282_paper.pdf), published at [ECAI 2020](http://ecai2020.eu/). To cite the work, you can use:
 
 ```
-@article{outsidethebox19,
+@inproceedings{outsidethebox19,
   author    = {Thomas A. Henzinger and
                Anna Lukina and
                Christian Schilling},
+  editor    = {Giuseppe De Giacomo and
+               Alejandro Catal{\'{a}} and
+               Bistra Dilkina and
+               Michela Milano and
+               Sen{\'{e}}n Barro and
+               Alberto Bugar{\'{\i}}n and
+               J{\'{e}}r{\^{o}}me Lang},
   title     = {Outside the Box: Abstraction-Based Monitoring of Neural Networks},
-  year      = {2020},
   booktitle = {{ECAI}},
   series    = {Frontiers in Artificial Intelligence and Applications},
   volume    = {325},
