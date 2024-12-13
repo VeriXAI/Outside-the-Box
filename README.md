@@ -28,7 +28,7 @@ This repository contains the implementation and data used in the paper [Outside 
 
 # Installation
 
-We use Python 3.6 but other Python versions may work as well. The package requirements that need to be installed are found in the file `requirements.txt`.
+We use Python 3.6 but other Python versions may work as well. The easiest is to use a conda environment. The package requirements that need to be installed are found in the file `requirements.txt`.
 
 # Recreation of the results
 
